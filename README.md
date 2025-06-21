@@ -1,4 +1,5 @@
-# 🛒 Supermarket Cashier System – Spring Semester Final Project (Level 2 BIS)
+# 🛒 Supermarket Cashier System – OOP PROJECT 
+## Spring Semester Final Project (Level 2 BIS)
 
 ## 📌 Overview
 
