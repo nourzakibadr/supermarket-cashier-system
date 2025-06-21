@@ -1,8 +1,8 @@
-# 🛒 Supermarket Cashier System – Final Semester Project (Level 1 BIS)
+# 🛒 Supermarket Cashier System – Spring Semester Final Project (Level 2 BIS)
 
 ## 📌 Overview
 
-This is a **console-based Python application** developed as a final semester assignment during Level 1 of my **Business Information Systems (BIS)** studies. The project simulates a **Supermarket Cashier System**, built using **Object-Oriented Programming (OOP)** concepts in Python.
+This is a **console-based Python application** developed as a final semester assignment during Level 2 of my **Business Information Systems (BIS)** Spring Semester. The project simulates a **Supermarket Cashier System**, built using **Object-Oriented Programming (OOP)** concepts in Python.
 
 The program allows users to manage general and healthy product data — including adding, editing, and displaying product information, along with calculating calorie metrics for health-conscious consumers.
 
@@ -64,7 +64,7 @@ The program allows users to manage general and healthy product data — includin
 
 ## 🎓 Academic Context
 
-> This project was created for  BIS programming module in my first academic year. It demonstrates how foundational OOP concepts can be applied in a real-world business context, simulating inventory and health product management within a supermarket cashier system.
+> This project was created for  BIS programming module in my Second academic year. It demonstrates how foundational OOP concepts can be applied in a real-world business context, simulating inventory and health product management within a supermarket cashier system.
 
 ---
 
